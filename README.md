@@ -1,7 +1,7 @@
-# Hi there  I'm Saurav Rawat.
-```
-Looking forward to have a new experience in different perspectives. Learn new skills and improve my interpersonal skills.
-```
+I'm Saurav Rawat
+
+> Looking forward to have a new experience in different perspectives. Learn new skills and improve my interpersonal skills.
+
 -  21 year old BCA Student.
 -  Learning React.
 -  Intagram - [@sauravrawat.2071](https://www.instagram.com/sauravrwt.2071/)
