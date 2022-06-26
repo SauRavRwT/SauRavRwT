@@ -6,4 +6,4 @@ Looking forward to have a new experience in different perspectives. Learn new sk
 - � Gaining some knowledge in React.
 - � Intagram - [@sauravrawat.2071](https://www.instagram.com/sauravrwt.2071/)
 - � Telegarm - [SauRavRwT](https://t.me/SauRavRwT)
-- � Youtube - [Lit.gojo](https://youtube.in/akatsuki2066/)
+- � Youtube - [Lit.Gojo](https://youtube.in/akatsuki2066/)
