@@ -1,5 +1,5 @@
 # Hi there  I'm Saurav Rawat.
-```bash
+```
 Looking forward to have a new experience in different perspectives. Learn new skills and improve my interpersonal skills.
 ```
 -  21 year old BCA Student.
