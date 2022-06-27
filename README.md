@@ -7,10 +7,10 @@
         </samp>
 </h3>
 
-<b> Looking forward to have a new experience in different perspectives. Learn new skills and improve my interpersonal skills.<b>
+<b> Looking forward to have a new experience in different perspectives. Learn new skills and improve my interpersonal skills. <b>
 
--  21 year old BCA Student.
--  Learning React.
+    (*_*) 21 year old BCA Student.
+    (*_*) Learning React.
   
   ## Ways to reach me:
 
