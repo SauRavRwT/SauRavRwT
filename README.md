@@ -9,7 +9,7 @@
 
 <b> Looking forward to have a new experience in different perspectives. Learn new skills and improve my interpersonal skills. <b>
 
-    * 21 year old BCA Student.
+    * 21 year old IT Student.
     * Learning React.
   
   ## Ways to reach me:
