@@ -12,9 +12,10 @@
     * 21 year old IT Student.
     * Learning React.
 
-    <link rel="stylesheet" href="https://raw.githubusercontent.com/SauRavRwT/SauRavRwT/main/style.css">
-    <script src="https://raw.githubusercontent.com/SauRavRwT/SauRavRwT/main/music.js"></script>
-    <div class="justify-content-center d-grid d-flex">
+  
+<link rel="stylesheet" href="https://raw.githubusercontent.com/SauRavRwT/SauRavRwT/main/style.css">
+<script src="https://raw.githubusercontent.com/SauRavRwT/SauRavRwT/main/music.js"></script>
+<div class="justify-content-center d-grid d-flex">
         <div class="player">
             <div class="player__header">
                 <div class="player__img player__img--absolute slider">
@@ -160,7 +161,7 @@
                 </li>
             </ul>
         </div>
-    </div>
+</div>
 
   ## Ways to reach me:
 
