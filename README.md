@@ -8,11 +8,14 @@
 </h3>
 
 <b> Looking forward to have a new experience in different perspectives. Learn new skills and improve my interpersonal skills. <b>
+ 
+[<img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/website.png" width="5%" height="5%"/>](https://sauravrwt.github.io/Saurav_portfolio/)
 
     * 21 year old IT Student.
     * Learning React.
   
-  [Checkout my website](https://sauravrwt.github.io/Saurav_portfolio/)
+[<img src="https://raw.githubusercontent.com/SauRavRwT/major_project/main/images/papersample.gif" width="40%" height="50%"/>](https://github.com/SauRavRwT/Papers)
+  
   ## Ways to reach me:
 
 [<img align="left" alt="SauRavRwT | Telegram" width="44px" src="https://raw.githubusercontent.com/SauRavRwT/SauRavRwT/main/assets/telegram.png"/>](https://t.me/SauRavRwT)[<img align="left" alt="SauRavRwT | Instagram" width="44px" src="https://raw.githubusercontent.com/SauRavRwT/SauRavRwT/main/assets/instagram.png" />](https://www.instagram.com/sauravrwt.2071/)[<img align="left" alt="SauRavRwT | Gmail" width="44px" src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/gmai.png" />](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=souravrawat142@gmail.com) [<img align="left" alt="SauRavRwT | YouTube" width="44px" src="https://raw.githubusercontent.com/SauRavRwT/SauRavRwT/main/assets/youtube.png"/>](https://youtube.in/akatsuki2066/)
