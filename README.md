@@ -14,7 +14,7 @@
     * 21 year old IT Student.
     * Learning React.
   
-[<img src="https://raw.githubusercontent.com/SauRavRwT/major_project/main/images/papersample.gif" width="40%" height="50%"/>](https://github.com/SauRavRwT/Papers)
+[<img src="https://raw.githubusercontent.com/SauRavRwT/major_project/main/images/papersample.gif" width="70%" height="80%"/>](https://github.com/SauRavRwT/Papers)
   
   ## Ways to reach me:
 
