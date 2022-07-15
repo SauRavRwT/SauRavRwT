@@ -18,8 +18,7 @@
 
 ### Now Playing 🎧
 
-[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)
-(https://open.spotify.com/user/31yhbuia3m5aa5vkzebrgk7rujly?si=t0msQwEiTweToi7cCKUOHw&utm_source=copy-link)
+[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/31yhbuia3m5aa5vkzebrgk7rujly?si=t0msQwEiTweToi7cCKUOHw&utm_source=copy-link)
   
   ## Ways to reach me:
 
