@@ -14,7 +14,11 @@
     * 21 year old IT Student.
     * Learning React.
   
-[<img src="https://raw.githubusercontent.com/SauRavRwT/major_project/main/images/papersample.gif" width="70%" height="80%"/>](https://github.com/SauRavRwT/Papers)
+[<img src="https://raw.githubusercontent.com/SauRavRwT/major_project/main/images/papersample.gif" width="50%" height="60%"/>](https://github.com/SauRavRwT/Papers)[<img src="https://github.com/SauRavRwT/major_project/blob/main/images/moviezsample.gif" width="50%" height="60%"/>](https://github.com/SauRavRwT/major_project)
+
+### Now Playing 🎧
+
+[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)](https://open.spotify.com/user/wolverine)
   
   ## Ways to reach me:
 
