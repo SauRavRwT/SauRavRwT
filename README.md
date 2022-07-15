@@ -18,8 +18,7 @@
 
 ### Now Playing 🎧
 
-![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)
-([https://open.spotify.com/user/wolverine])
+[![Spotify](https://novatorem-m84nrore7-developers.vercel.app/api/spotify)]()
   
   ## Ways to reach me:
 
