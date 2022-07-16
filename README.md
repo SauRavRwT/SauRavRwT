@@ -9,7 +9,7 @@
 
 <b> Looking forward to have a new experience in different perspectives. Learn new skills and improve my interpersonal skills. <b>
 
-[<img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/click.gif" width="20%" height="20%"/>](https://sauravrwt.github.io/Saurav_portfolio/)
+<b align="center">[<img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/click.gif" width="60%" height="60%"/>](https://sauravrwt.github.io/Saurav_portfolio/) </b>
 
     * 21 year old IT Student.
     * Learning React.
