@@ -9,12 +9,12 @@
 
 <b> Looking forward to have a new experience in different perspectives. Learn new skills and improve my interpersonal skills. <b>
 
-[<img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/click.gif" width="60%" height="60%"/>](https://sauravrwt.github.io/Saurav_portfolio/)
+[<img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/clickhere.svg" width="100%" height="60%"/>](https://sauravrwt.github.io/Saurav_portfolio/)
 
     * 21 year old IT Student.
     * Learning React.
   
-[<img src="https://raw.githubusercontent.com/SauRavRwT/major_project/main/images/papersample.gif" width="50%" height="60%"/>](https://github.com/SauRavRwT/Papers)[<img src="https://github.com/SauRavRwT/major_project/blob/main/images/moviezsample.gif" width="50%" height="60%"/>](https://github.com/SauRavRwT/major_project)
+[<img src="https://raw.githubusercontent.com/SauRavRwT/major_project/main/images/papersample.gif" width="50%" height="50%"/>](https://github.com/SauRavRwT/Papers)[<img src="https://github.com/SauRavRwT/major_project/blob/main/images/moviezsample.gif" width="50%" height="60%"/>](https://github.com/SauRavRwT/major_project)
 
 ### Now Playing 🎧
 
