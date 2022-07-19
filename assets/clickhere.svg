@@ -16,12 +16,12 @@
 				h1 {
 				  font-family: monospace;
 				  margin: 0;
-				  font-size: 4rem;
+				  font-size: 4em;
 				  font-weight: 900;
 				  letter-spacing: -.04em;
 				  text-align: center;
 				  background: -webkit-linear-gradient(right,#78BCC4,#002C3E);
-				  background: linear-gradient(270deg,#78BCC4 0, #002C3E);
+				  background: linear-gradient(270deg,#78BCC4 0,#002C3E);
 				  background-size: 200%;
 				  background-clip: text;
 				  -webkit-background-clip: text;
