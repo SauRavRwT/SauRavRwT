@@ -53,4 +53,4 @@
   
 <img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/friends.gif" width="60"> <em><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk with you more!</b> :)</em>
 
-<img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/1255243.jpg" width="100%">
+<img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/Banner.jpg" width="100%">
