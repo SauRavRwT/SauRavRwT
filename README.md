@@ -26,8 +26,6 @@
   <samp>My Profile Stats</samp></summary><br>
 
 ![Saurav's Github Stats](https://github-readme-stats.vercel.app/api?username=SauRavRwT&show_icons=true&theme=transparent&title_color=537188&text_color=E1D4BB&icon_color=CBB279&hide_border=true)
-![Saurav's Github Stats](https://github-readme-streak-stats.herokuapp.com?user=SauRavRwT&amp;hide_border=true&amp;dates=537188&amp;currStreakNum=CBB279&amp;sideLabels=E1D4BB&amp;sideNums=537188&amp;fire=CBB279&amp;stroke=537188&amp;ring=537188&amp;background=FFFFFF00)
-
 [![Saurav's trophy](https://github-profile-trophy.vercel.app/?username=SauRavRwT&theme=onedark)](https://github.com/SauRavRwT/)
   <!-- </details> -->
 
