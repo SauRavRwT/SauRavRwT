@@ -1,44 +1,27 @@
 <!-- My profile -->
-<div align="center">
-  <samp><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ratspace&size=30&pause=1000&color=CBB279&center=true&vCenter=true&width=1000&height=100&lines=•+हर+हर+महादेव+•;I+am+Saurav+Rawat.)](https://sauravrwt.github.io)
-<br>
-<p><b>IT Student, Learning React and a Android Enthusiast.</b></p>
-<p><b>• Build • Flash • Brick • Fix • Reboot • Sleep • ♾️ •</b></p>
-  </samp>
-</div>
+> **"Turning creativity into code, imagination into reality, and complexity into simplicity, one line at a time."**
 
-<!-- Now Playing -->
-<br><div align="center">
-<samp><h2>Now Playing</h2></samp><br>
+### Hi there 👋 , I'm [Saurav Rawat](https://sauravrwt.github.io)<div  align="right"><img src="https://komarev.com/ghpvc/?username=SauRavRwT&label=Visitors&color=64CCC5&style=flat" alt="visitor badge"/></div>
 
-![Saurav's Spotify Stats](https://spotify-recently-played-readme.vercel.app/api?user=31yhbuia3m5aa5vkzebrgk7rujly&count=2&unique=true)
-</div>
-<br>
+Here are some ideas to get you started:
 
-<!-- Github Stats -->
-<br><div align="center">
-<samp><h2>Github Stats</h2></samp><br> 
-   
-  <!-- <details align="center">
-    <summary> -->
-  <samp>My Profile Stats</samp></summary><br>
+- 🔭 I’m currently working on Team Jappy(SIH)...
+- 🌱 I’m currently learning ReactJs...
+- 👯 I’m looking to collaborate on Team Jappy(SIH)...
+- 🤔 I’m looking for help with firebase...
+- 💬 Ask me about Web Developing...
+- 📫 How to reach me: [@balbheji](https://t.me/balbheji)
+- ⚡ Fun fact: I'm Noob...
 
-![Saurav's Github Stats](https://github-readme-stats.vercel.app/api?username=SauRavRwT&show_icons=true&theme=transparent&title_color=537188&text_color=E1D4BB&icon_color=CBB279&hide_border=true)
-[![Saurav's trophy](https://github-profile-trophy.vercel.app/?username=SauRavRwT&theme=onedark)](https://github.com/SauRavRwT/)
-  <!-- </details> -->
+I'm Web Developer and UI/UX Designer from Delhi, India working in web development. My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.
 
-<div align="center"><br>
+### Github Stats
 
-![Saurav's Profile view](https://komarev.com/ghpvc/?username=SauRavRwT&label=Visitors&color=537188&style=flat)
-<br></div><br>
+![Saurav's Github Stats](https://github-readme-stats.vercel.app/api?username=SauRavRwT&show_icons=true&theme=transparent&title_color=DAFFFB&text_color=176B87&icon_color=64CCC5&hide_border=true)![Saurav's Github Stats](https://github-readme-streak-stats.herokuapp.com?user=SauRavRwT&amp;hide_border=true&amp;dates=DAFFFB&amp;currStreakNum=176B87&amp;sideLabels=DAFFFB&amp;sideNums=64CCC5&amp;fire=176B87&amp;stroke=64CCC5&amp;ring=64CCC5&amp;background=FFFFFF00)
   
-<!-- Ways to reach me -->
-<br><div align="center"><samp>
-<img src="https://github.com/SauRavRwT/SauRavRwT/blob/main/assets/friends.gif" width="60">
-<em><b> I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to talk with you more!</b> :)
-</em><br>
-<p>💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
-<p>Made with ❤️ in India</p>
-</samp></div>
+_I love connecting with different people so if you want to say **hi, I'll be happy to talk with you more** :)_
+
+💙 If you like my projects, Give them ⭐ and Share it with friends!
+
+**Made with ❤️ in India**
