@@ -2,19 +2,19 @@
 
 > **"Turning creativity into code, imagination into reality, and complexity into simplicity, one line at a time."**
 
-<h1 align="center">Hi there 👋, I'm <a href="https://sauravrwt.github.io">Saurav Rawat</a></h1>
+# Hi there 👋, I'm <a href="https://sauravrwt.github.io">Saurav Rawat</a>
 <div align="right"><img src="https://komarev.com/ghpvc/?username=SauRavRwT&label=Visitors&color=297865&style=flat" alt="visitor badge"/></div>
 
-<p align="center">I'm a Web Developer and UI/UX Designer from Delhi, India. I specialize in creating functional, user-friendly, and visually appealing websites that effectively communicate your message and brand identity.</p>
+I'm a Web Developer and UI/UX Designer from Delhi, India. I specialize in creating functional, user-friendly, and visually appealing websites that effectively communicate your message and brand identity.
 
 ### 🚀 Quick Facts
 
-- 🔭 Currently working on: **Cross Application**
+- 🔭 Currently working on: **Text To Image**
 - 🌱 Learning: **ReactJs**
 - 👯 Open to collaborate on: **React Projects**
 - 🤔 Seeking help with: **Wi-fi Sensing**
 - 💬 Ask me about: **Web Development**
-- 📫 Reach me at: **[@balbheji](https://t.me/balbheji)**
+- 📫 Reach me at: **[balbheji](https://t.me/balbheji)**
 - ⚡ Fun fact: **_Don't Say Just Hello In Chat_**
 
 ### 🎵 Currently Vibing To
@@ -23,15 +23,9 @@
 ### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,js,html,css,tailwind,firebase,mongo,mysql,figma,nodejs,androidstudio,java)](#)
 
-### 🤝 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-SauRavRwT-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SauRavRwT/)
-[![Instagram](https://img.shields.io/badge/-rawatsensei-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/rawatsensei)
-[![YouTube](https://img.shields.io/badge/-balbheji-darkred?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@balbheji)
-[![Gmail Badge](https://img.shields.io/badge/-souravrawat142@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:souravrawat142@gmail.com)](mailto:souravrawat142@gmail.com)
+### 🏆 Github Stats
 
-### Github Stats
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SauRavRwT&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SauRavRwT&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SauRavRwT&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true)![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SauRavRwT&theme=one_dark_pro&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ![Snake animation](https://raw.githubusercontent.com/SauRavRwT/SauRavRwT/output/snake.svg)
 
