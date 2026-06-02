@@ -5,16 +5,20 @@
 # Hi there 👋🏻, I'm Saurav Rawat
 <div align="right"><img src="https://komarev.com/ghpvc/?username=SauRavRwT&label=Visitors&color=297865&style=flat" alt="visitor badge"/></div>
 
+> Software engineer focused on building polished web and mobile experiences with clean architecture, strong design sense, and fast delivery.
 
-### 🎵 Currently Vibing To
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=31yhbuia3m5aa5vkzebrgk7rujly&count=2&width=300)
+- Experienced in React, Node.js, Java, Firebase, and modern frontend tooling.
+- Passionate about practical UI/UX, reliable code, and products that solve real problems.
+- Available for collaboration, freelance work, and innovative product development.
+
 
 ### 🛠️ Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=react,bootstrap,js,html,css,tailwind,firebase,mongo,mysql,java,figma,androidstudio,docker,github,python)](#)
 
-### 🏆 Github Stats
+### 🏆 GitHub Overview
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SauRavRwT&theme=react&hide_border=true&include_all_commits=true&count_private=true)![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=SauRavRwT&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SauRavRwT&theme=react)
+
 
 ![Snake animation](https://raw.githubusercontent.com/SauRavRwT/SauRavRwT/output/snake.svg)
 
